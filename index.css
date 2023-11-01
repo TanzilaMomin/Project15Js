@@ -1,0 +1,18 @@
+button{
+    padding: 10px;
+    margin: 10px;
+    background-color: magenta;
+    border: 3px solid chocolate;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+    box-shadow: 2px 2px 2px chocolate;
+}
+#nav{
+    text-align: center;
+    margin: 15px;
+    padding: 20px;
+}
+li{
+    font-size: large;
+}
